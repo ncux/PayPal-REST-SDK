@@ -1,0 +1,17 @@
+{
+  "name": "paypal-rest-app",
+  "version": "1.0.0",
+  "description": "Node.js PayPal REST SDK",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "ncux",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
